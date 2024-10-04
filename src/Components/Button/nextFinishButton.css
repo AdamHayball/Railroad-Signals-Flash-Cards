@@ -1,0 +1,19 @@
+#flashCardButtonContainer {
+  margin-top: 50px;
+}
+.flashCardButton {
+  display: inline-block;
+  border: none;
+  background-color: #464646 !important;
+  color: white;
+  font-weight: Bold !important;
+  width: 100%;
+  max-width: 300px;
+  height: 50px;
+  font-size: 16px;
+  margin: 0px auto;
+}
+
+.flashCardButtonSectionGridItem {
+  text-align: center !important;
+}

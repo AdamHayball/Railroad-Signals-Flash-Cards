@@ -1,0 +1,69 @@
+{
+  "short_name": "RR Signals",
+  "name": "Railroad Signals",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "categories": [ "education", "games"],
+  "screenshots" : [
+    {
+      "src": "screenshots/screenshot1.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/screenshot2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/screenshot3.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/screenshot4.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/screenshot5.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/screenshot6.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/screenshot7.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/screenshot8.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+    
+  ]
+}

@@ -1,0 +1,24 @@
+.buttonStyle {
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+.buttonImageStyle {
+  width: 100%;
+}
+
+@media (min-width: 320px) {
+  .buttonStyle {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .buttonStyle {
+    width: 200px;
+  }
+}

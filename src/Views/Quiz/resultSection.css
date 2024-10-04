@@ -1,0 +1,51 @@
+.resultCardSpan {
+  width: 80%;
+  height: auto;
+
+  display: inline-block;
+  background-color: white;
+  border: 20px solid rgb(66, 66, 66);
+  border-radius: 20px;
+}
+.resultCardGridItem {
+  text-align: center;
+}
+.resultCardDiv {
+  margin: 150px auto 0px auto;
+}
+
+/* Button Design */
+
+#resultButtonContainer {
+  margin-top: 50px;
+}
+.resultButton {
+  display: inline-block;
+  border: none;
+  background-color: #464646;
+  color: white;
+  font-weight: Bold;
+  width: 100%;
+  max-width: 300px;
+  height: 50px;
+  font-size: 16px;
+  margin: 0px auto;
+}
+
+.resultButton:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.resultButtonSectionGridItem {
+  text-align: center !important;
+}
+
+@media (max-width: 425px) {
+  .resultCardText {
+    font-size: 11px !important;
+  }
+  .resultCardSpan {
+    border-width: 10px;
+  }
+}

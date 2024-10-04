@@ -1,0 +1,17 @@
+#optionButtonsMainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.optionButtonsGridContainer {
+  align-items: center;
+  justify-content: center;
+}
+
+.optionButtonItem {
+  margin: 0px !important;
+  padding: 0px !;
+  text-align: center;
+}

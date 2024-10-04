@@ -1,0 +1,17 @@
+#selectButtonsMainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.selectButtonsGridContainer {
+  align-items: center;
+  justify-content: center;
+}
+
+.selectButtonItem {
+  margin: 0px !important;
+  padding: 0px !;
+  text-align: center;
+}
