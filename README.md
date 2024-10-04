@@ -2,7 +2,7 @@
 
 ![Railroad Signals Logo](https://github.com/AdamHayball/Railroad-Signals-Flash-Cards/blob/main/src/assets/Buttons/flashcardButtonHover.png)
 
-Railroad Signal Flash Cards is a Progressive Web App (PWA) built with React and JavaScript that provides flash cards to assist in memorizing railroad signals. This application is designed to work seamlessly on both mobile and desktop devices, offering users an interactive and user-friendly experience.
+Railroad Signal Flash Cards is a Progressive Web App (PWA) built with React and JavaScript that provides flash cards and testing to assist in memorizing railroad signals. This application is designed to work seamlessly on both mobile and desktop devices, offering users an interactive and user-friendly experience.
 
 ## Live Demo
 
